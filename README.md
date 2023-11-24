@@ -1,0 +1,1 @@
+This extension will detect if an app or game on the PlayStore has any published reports on fairmobilegames.com
